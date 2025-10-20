@@ -1,2 +1,2 @@
-# template
+# Template
 some (interesting ?) templates
